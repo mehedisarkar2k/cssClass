@@ -1,0 +1,33 @@
+/* 1, 0, 3  =  4*/
+body div h1#firstId {
+  color: blueviolet;
+}
+
+/* 2, 0, 2 = 4 */
+
+/* this style for heading */
+h1 {
+  color: red;
+}
+
+/* nav bar start */
+nav {
+}
+/* nav bar end */
+
+/* 
+tag-> 1
+class ->1
+id ->1
+*/
+
+/* 
+id, class, tag
+*/
+
+/* 
+git init
+git add
+git commit -m"Your message"
+
+*/
